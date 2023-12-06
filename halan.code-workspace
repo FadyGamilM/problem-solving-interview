@@ -1,0 +1,34 @@
+{
+    "folders": [
+        {
+            "path": "./problem01"
+        },
+        {
+            "path": "./problem02"
+        },
+        {
+            "path": "./problem03"
+        },
+        {
+            "path": "./problem04"
+        },
+        {
+            "path": "./problem05"
+        },
+        {
+            "path": "./problem06"
+        },
+        {
+            "path": "./problem07"
+        },
+        {
+            "path": "./problem08"
+        },
+        {
+            "path": "./problem09"
+        },
+        {
+            "path": "."
+        }
+    ]
+}
